@@ -1,4 +1,4 @@
-# 🤖 پُل Telegram Bot
+# 🤖PolBot Features
 
 پُل (Pol) is a Telegram bot designed to act as a secure intermediary between Telegram users and their Google Drive accounts. It allows users to upload files to their Google Drive, manage default upload folders, and optionally shorten the generated Google Drive links using Short.io.
 
